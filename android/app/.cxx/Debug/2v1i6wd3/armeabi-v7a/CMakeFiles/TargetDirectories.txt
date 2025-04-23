@@ -1,0 +1,2 @@
+D:/Projects/GoBlueWay/provider/android/app/.cxx/Debug/2v1i6wd3/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Projects/GoBlueWay/provider/android/app/.cxx/Debug/2v1i6wd3/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "467166755686",
+    "project_id": "goblueway-c6dfd",
+    "storage_bucket": "goblueway-c6dfd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467166755686:android:2c82af80bf9e9aa99f66a7",
+        "android_client_info": {
+          "package_name": "com.goblueway.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467166755686-ir6q0d8v409jiuq96b4v34fi9es9jr6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa16ITEeNM84avWEVsofGgLqT_lescGT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467166755686-ir6q0d8v409jiuq96b4v34fi9es9jr6g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "467166755686-4kdr29j26d45dpjthedv5nsqrab84308.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goblueway.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467166755686:android:ee85f9836c4094459f66a7",
+        "android_client_info": {
+          "package_name": "com.goblueway.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467166755686-3oaoaad54mrdu0t2f23upn49fal489k3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goblueway.user",
+            "certificate_hash": "1d542ce1a8854dea18ca313d3212ae83bfe0cf70"
+          }
+        },
+        {
+          "client_id": "467166755686-4nvfpi99565bd34hc3p2ap3p6eude0m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goblueway.user",
+            "certificate_hash": "a65d6e627652c298dc9ee34173e5548c858f2954"
+          }
+        },
+        {
+          "client_id": "467166755686-ir6q0d8v409jiuq96b4v34fi9es9jr6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa16ITEeNM84avWEVsofGgLqT_lescGT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467166755686-ir6q0d8v409jiuq96b4v34fi9es9jr6g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "467166755686-4kdr29j26d45dpjthedv5nsqrab84308.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goblueway.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
